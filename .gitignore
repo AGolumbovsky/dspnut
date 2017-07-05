@@ -1,3 +1,5 @@
+.idea/
+
 target/
 **/*.rs.bk
 Cargo.lock
@@ -5,4 +7,3 @@ target/
 **/*.rs.bk
 Cargo.lock
 
-../.idea/*
